@@ -1,2 +1,6 @@
 # coinExchangeServer
- coinExchange Server
+ coinExchange Server (soket server)
+
+ # To Do :
+    - [] Server
+
