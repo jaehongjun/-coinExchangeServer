@@ -1,0 +1,16 @@
+{
+  "tradeSite": [
+    {
+      "siteName": "velic",
+      "searchList": [
+        { "name": "ICX/BTC", "baseCoinCode": "1", "mtchCoinCode": "3" },
+        { "name": "VELT/BTC", "baseCoinCode": "1", "mtchCoinCode": "5" },
+        { "name": "VELT/ICX", "baseCoinCode": "3", "mtchCoinCode": "5" },
+        { "name": "WOK/ICX", "baseCoinCode": "3", "mtchCoinCode": "28" },
+        { "name": "BNB/VELT", "baseCoinCode": "5", "mtchCoinCode": "26" },
+        { "name": "AST/VELT", "baseCoinCode": "5", "mtchCoinCode": "23" },
+        { "name": "WOK/VELT", "baseCoinCode": "5", "mtchCoinCode": "28" }
+      ]
+    }
+  ]
+}
